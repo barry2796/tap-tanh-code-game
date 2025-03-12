@@ -1,4 +1,5 @@
 # depslib dependency file v1.0
-1741757154 source:d:\tap tanh code game\tap-tanh-code-game\hello\main.cpp
+1741757564 source:d:\tap tanh code game\tap-tanh-code-game\hello\main.cpp
 	<iostream>
+	<SDL.h>
 
